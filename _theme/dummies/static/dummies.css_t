@@ -1,0 +1,32 @@
+@import url("haiku.css");
+
+html {
+    background: transparent;
+}
+
+body {
+    width: 40em;
+    min-width: 40em;
+    max-width: 40em;
+}
+
+div.topnav {
+    background: #e0e0e0;
+}
+
+div.topnav span,
+div.bottomnav span {
+  font-weight: bold;
+  margin: 0 1.6em;
+  font-size: 0.8em;
+}
+
+div.topnav span.nav,
+div.bottomnav span.nav {
+  float: right;
+}
+
+div.content {
+  margin: 20px 2em 50px;
+}
+
