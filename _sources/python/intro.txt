@@ -1,0 +1,33 @@
+.. _python_intro:
+
+==========
+Python简介
+==========
+
+
+安装
+====
+
+
+Hello, world!
+=============
+
+.. code-block:: text
+
+    $ python
+    Python 2.7.1 (r271:86832, Apr 12 2011, 16:15:16) 
+    [GCC 4.6.0 20110331 (Red Hat 4.6.0-2)] on linux2
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>> 
+
+
+.. code-block:: pycon
+
+    >>> print "Hello, world!"
+    Hello, world!
+
+
+
+
+
+
